@@ -21,3 +21,5 @@
 22. cold storage
 23. video, stream: transcode, different format
 24. Pagination: with cache
+25. Zookeeper control N replicas
+26. 3rd party data source usage
