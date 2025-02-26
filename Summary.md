@@ -24,3 +24,4 @@
 25. Zookeeper control N replicas
 26. 3rd party data source usage
 27. Run Filtration then ranking --> two Stage Architecture
+28. User Info host in Http header using JWT
