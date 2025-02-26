@@ -13,7 +13,7 @@
 14. Thinking careful use which protocal, SSE, webSocket, poll, long poll, webRTC
 15. KAFKA : retry + exponiential back off
 16. Cron Job for pre computer / cleanup quite useful at beginning . RT is complex and buggy
-17. RT sorting, leaderboard, TopN : Redis sortedset with CDC
+17. RT sorting, leaderboard, TopN : Redis sortedset with CDC, redis and DB update same time
 18. read /write functoin separate
 19. pub/sub with topic
 20. batch call reduce frequency
