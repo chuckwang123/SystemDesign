@@ -14,7 +14,7 @@
 15. KAFKA : retry + exponiential back off
 16. Cron Job for pre computer / cleanup quite useful at beginning . RT is complex and buggy
 17. RT sorting, leaderboard, TopN : Redis sortedset with CDC, redis and DB update same time
-18. read /write functoin separate
+18. read /write function separate
 19. pub/sub with topic
 20. batch call reduce frequency
 21. TFIDF: word freq for search
