@@ -26,4 +26,4 @@
 27. Run Filtration then ranking --> two Stage Architecture
 28. User Info host in Http header using JWT
 29. Pubsub + WebSocket / SSE (consider how about poll) maybe no need for RT
-30. Split data into Hot (cache) / warm (SSD)/ cold (S3)
+30. Split data into Hot (cache) / warm (SSD / memory table)/ cold (S3)
