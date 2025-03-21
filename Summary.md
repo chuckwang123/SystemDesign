@@ -27,3 +27,4 @@
 28. User Info host in Http header using JWT
 29. Pubsub + WebSocket / SSE (consider how about poll) maybe no need for RT
 30. Split data into Hot (cache) / warm (SSD / memory table)/ cold (S3)
+31. Dynamic Partitions using Consistent hashing, rehashing, use Zookeeper control
