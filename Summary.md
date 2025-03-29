@@ -28,3 +28,5 @@
 29. Pubsub + WebSocket / SSE (consider how about poll) maybe no need for RT
 30. Split data into Hot (cache) / warm (SSD / memory table)/ cold (S3)
 31. Dynamic Partitions using Consistent hashing, rehashing, use Zookeeper control
+32. Queue + Worker Combined
+33. Dynamic Horizontal Scale
