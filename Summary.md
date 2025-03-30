@@ -29,4 +29,6 @@
 30. Split data into Hot (cache) / warm (SSD / memory table)/ cold (S3)
 31. Dynamic Partitions using Consistent hashing, rehashing, use Zookeeper control
 32. Queue + Worker Combined
-33. Dynamic Horizontal Scale
+    1. Large scale of traffic
+    2. Keep all transaction safe and not drop
+34. Dynamic Horizontal Scale
