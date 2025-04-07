@@ -32,3 +32,4 @@
     1. Large scale of traffic
     2. Keep all transaction safe and not drop
 34. Dynamic Horizontal Scale
+35. Search: Pagination (page={} & pageSize= {} / Cursor={} & PageSize= {})
