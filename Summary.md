@@ -33,3 +33,9 @@
     2. Keep all transaction safe and not drop
 34. Dynamic Horizontal Scale
 35. Search: Pagination (page={} & pageSize= {} / Cursor={} & PageSize= {})
+36. Producer + queue --> Real-time Processing	Event-driven systems
+    1. Realtime logs, metrics, user activity tracking (e.g., Kafka)
+    2. Decoupling services (e.g., microservices comms)
+    3. Multiple consumers needed
+    
+- 
