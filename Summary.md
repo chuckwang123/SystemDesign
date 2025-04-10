@@ -37,5 +37,8 @@
     1. Realtime logs, metrics, user activity tracking (e.g., Kafka)
     2. Decoupling services (e.g., microservices comms)
     3. Multiple consumers needed
-    
-- 
+37. Queue → Worker (Batch or Async) Background processing
+    1. Sending emails/SMS
+    2. Image processing
+    3. Payment confirmation
+    4. Any non-urgent or retry-prone task
